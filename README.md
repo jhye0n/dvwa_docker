@@ -1,5 +1,7 @@
 ### DVWA DOCKER
 
+< compose 버전은 시간날 때 커밋 하겠슴당 >
+
 > Repo Download
 https://github.com/jhye0n/dvwa_docker.git
 
