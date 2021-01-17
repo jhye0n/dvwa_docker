@@ -32,3 +32,7 @@ cp config.inc.php.dist config.inc.php
 ```
 
 > config.inc.php 파일 내 DB정보 수정
+
+===
+
+[LICENSE] DVWA(https://github.com/digininja/DVWA)
